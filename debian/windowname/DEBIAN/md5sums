@@ -1,0 +1,8 @@
+04f23bc0c72a6d6e33798bea4ffc5cb2  usr/lib/bonobo/servers/windowname.server
+01eb58170423d51375989d653f44f5d7  usr/lib/gnome-applets/windowname-factory2.py
+80a1d7d95813082c31dbc62b13ae0d7f  usr/lib/gnome-applets/windowname-factory3.py
+75d1884939c72cc56f60c73d10d6ae42  usr/lib/gnome-applets/windownameApplet.py
+6a7fd72135c52c559996a41b73d060f2  usr/share/dbus-1/services/org.gnome.panel.applet.windowname.service
+60e255be8ddc592a2f03611140928767  usr/share/doc/windowname/changelog.gz
+670451ea3021624930edfc82f331d46b  usr/share/doc/windowname/copyright
+8cd53b93cd8bd43d12c9dac4839556ce  usr/share/gnome-panel/4.0/applets/org.gnome.applets.windowname.panel-applet

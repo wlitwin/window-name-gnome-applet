@@ -1,0 +1,8 @@
+This is a gnome panel applet that will display the current window title.
+Created because I'm using XMonad with Gnome fallback and window names are
+sometimes helpful. The panel applet has three modes: White title, Gray title,
+and No title. The code is pretty hacked together and I have no idea how
+to properly use GTK so the applet is actually a button (I wanted to make
+it a label).
+
+Use at own risk.

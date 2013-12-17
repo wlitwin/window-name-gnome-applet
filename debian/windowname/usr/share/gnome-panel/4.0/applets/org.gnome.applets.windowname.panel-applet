@@ -1,0 +1,10 @@
+[Applet Factory]
+Id=windownameFactory
+Location=/usr/lib/gnome-applets/windowname-factory3.py
+Name=windowname Factory
+
+[windowname]
+Name=windowname
+Description=Shows window title in panel
+Icon=time-admin.png
+BonoboId=OAFIID:windownameFactory

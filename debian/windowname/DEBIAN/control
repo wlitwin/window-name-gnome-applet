@@ -1,0 +1,10 @@
+Package: windowname
+Version: 0.1
+Architecture: amd64
+Maintainer: default name <fixme@invalid_email_path>
+Installed-Size: 68
+Depends: gir1.2-gtk-3.0 | python-gtk2, gir1.2-panelapplet-4.0 | python-gnomeapplet, gnome-icon-theme, gnome-panel
+Section: gnome
+Priority: extra
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
